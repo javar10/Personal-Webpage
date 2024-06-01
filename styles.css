@@ -1,0 +1,61 @@
+body {
+    background-color: #E0F0F9;
+}
+
+header {
+    height: 18vw;
+    width: 100%;
+    background-color: #00496F;
+    color: #E0F0F9;
+    text-align: center;
+    line-height: 18vw;
+    font-size: 10vw;
+    font-family: Marker Felt;
+}
+
+nav {
+    text-align: left;
+    background-color: #E0F0F9;
+    text-align: left;
+}
+
+main {
+    margin: 2vw;
+}
+
+footer {
+    position: fixed;
+    bottom: 2vw;
+    left: 2vw;
+    right: 2vw;
+    top: 2vs;
+    text-align: right;
+}
+
+.duck {
+    height: 10vw;
+    padding: 1vw;
+}
+
+#chosen-duck {
+    height: 5vw
+}
+
+#ducks {
+    background-color: #00496F;
+}
+
+#chart_title {
+    background-color: #E0F0F9;
+    color: #00496F;
+    border: solid;
+    border-color: #00496F;
+    text-align: center;
+}
+
+.list-group, .list-group-item {
+    background-color: #00496F;
+    color: #E0F0F9;
+    line-color: white;
+}
+
